@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0221f4f6880a3b119efa91744598027d527d732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cae258c1a89cce00e2542dda4ee42f4953fb7388">
+        <dex dex="/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf0d7342c527d6a36a4df755a0b4c6c9f0437e79/classes.dex" />
+    </item>
+
+</items>

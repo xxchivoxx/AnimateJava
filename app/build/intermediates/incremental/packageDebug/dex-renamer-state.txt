@@ -1,0 +1,7 @@
+#Mon Apr 30 15:45:36 MDT 2018
+base.0=/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0221f4f6880a3b119efa91744598027d527d732
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf0d7342c527d6a36a4df755a0b4c6c9f0437e79/classes.dex
+base.1=/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf0d7342c527d6a36a4df755a0b4c6c9f0437e79
+file.0=/home/carlos/AndroidStudioProjects/AnimateJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0221f4f6880a3b119efa91744598027d527d732/classes.dex
